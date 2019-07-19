@@ -1,4 +1,3 @@
-___author___ = 'Kash Farhadi"
 
 ''' fib.py
     Provides n-th number in the Fibonacci sequence.
