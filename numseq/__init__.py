@@ -1,3 +1,3 @@
 ''' __init__.py for numseq package '''
 
-___author___ = 'Kash Farhadi"
+___author___ = "Kash Farhadi"
